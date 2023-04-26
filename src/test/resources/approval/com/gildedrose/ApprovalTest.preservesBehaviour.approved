@@ -1,1 +1,16 @@
-foo
+Example of running Gilded Rose
+Day 1 ======================
+item = Aged Brie, 2, 0
+item = Elixir of the Mongoose, 5, 7
+item = Sulfuras, Hand of Ragnaros, 0, 80
+item = Backstage passes to a TAFKAL80ETC concert, 5, 49
+Day 2 ======================
+item = Aged Brie, 1, 1
+item = Elixir of the Mongoose, 4, 6
+item = Sulfuras, Hand of Ragnaros, 0, 80
+item = Backstage passes to a TAFKAL80ETC concert, 4, 50
+Day 3 ======================
+item = Aged Brie, 0, 2
+item = Elixir of the Mongoose, 3, 5
+item = Sulfuras, Hand of Ragnaros, 0, 80
+item = Backstage passes to a TAFKAL80ETC concert, 3, 50
